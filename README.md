@@ -1,0 +1,2 @@
+# ClearIsCls
+ clear is cls
